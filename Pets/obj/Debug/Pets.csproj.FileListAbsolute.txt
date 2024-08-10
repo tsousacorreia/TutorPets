@@ -8,3 +8,5 @@ C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\TutorPets\Pets\obj\Debug\
 C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\TutorPets\Pets\obj\Debug\Pets.exe
 C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\TutorPets\Pets\obj\Debug\Pets.pdb
 C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\TutorPets\Pets\obj\Debug\Pets.frmSplash.resources
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\TutorPets\Pets\obj\Debug\Pets.frmLogin.resources
+C:\Users\Laboratorio-Info\Documents\Visual Studio 2019\TutorPets\Pets\obj\Debug\Pets.frmComponentes.resources
